@@ -1,0 +1,153 @@
+[Thu Dec 12 13:03:39.077527 2013] [ssl:warn] [pid 3272:tid 264] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Dec 12 13:03:39.697562 2013] [ssl:warn] [pid 3272:tid 264] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Dec 12 13:03:39.782567 2013] [mpm_winnt:notice] [pid 3272:tid 264] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Thu Dec 12 13:03:39.782567 2013] [mpm_winnt:notice] [pid 3272:tid 264] AH00456: Server built: Feb 23 2013 13:07:34
+[Thu Dec 12 13:03:39.782567 2013] [core:notice] [pid 3272:tid 264] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 12 13:03:39.783567 2013] [mpm_winnt:notice] [pid 3272:tid 264] AH00418: Parent: Created child process 3276
+[Thu Dec 12 13:03:40.648617 2013] [ssl:warn] [pid 3276:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Dec 12 13:03:41.323655 2013] [ssl:warn] [pid 3276:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Dec 12 13:03:41.392659 2013] [mpm_winnt:notice] [pid 3276:tid 276] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 12 13:09:52.950215 2013] [ssl:warn] [pid 4904:tid 260] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Dec 12 13:09:53.050215 2013] [core:warn] [pid 4904:tid 260] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 12 13:09:53.465216 2013] [ssl:warn] [pid 4904:tid 260] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Dec 12 13:09:53.510216 2013] [mpm_winnt:notice] [pid 4904:tid 260] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Thu Dec 12 13:09:53.510216 2013] [mpm_winnt:notice] [pid 4904:tid 260] AH00456: Server built: Feb 23 2013 13:07:34
+[Thu Dec 12 13:09:53.510216 2013] [core:notice] [pid 4904:tid 260] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Dec 12 13:09:53.510216 2013] [mpm_winnt:notice] [pid 4904:tid 260] AH00418: Parent: Created child process 3908
+[Thu Dec 12 13:09:54.393232 2013] [ssl:warn] [pid 3908:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Dec 12 13:09:54.993267 2013] [ssl:warn] [pid 3908:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Thu Dec 12 13:09:55.044270 2013] [mpm_winnt:notice] [pid 3908:tid 276] AH00354: Child: Starting 150 worker threads.
+[Thu Dec 12 13:14:27.619274 2013] [:error] [pid 3908:tid 1756] [client 127.0.0.1:49463] script 'C:/xampp/htdocs/connect.php' not found or unable to stat
+[Thu Dec 12 13:14:33.256093 2013] [:error] [pid 3908:tid 1804] [client 127.0.0.1:49464] script 'C:/xampp/htdocs/anderson/connect.php' not found or unable to stat
+[Fri Dec 13 14:39:07.903726 2013] [ssl:warn] [pid 5892:tid 264] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Fri Dec 13 14:39:08.067736 2013] [core:warn] [pid 5892:tid 264] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 13 14:39:08.484759 2013] [ssl:warn] [pid 5892:tid 264] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Fri Dec 13 14:39:08.730773 2013] [mpm_winnt:notice] [pid 5892:tid 264] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Fri Dec 13 14:39:08.730773 2013] [mpm_winnt:notice] [pid 5892:tid 264] AH00456: Server built: Feb 23 2013 13:07:34
+[Fri Dec 13 14:39:08.730773 2013] [core:notice] [pid 5892:tid 264] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Dec 13 14:39:08.731773 2013] [mpm_winnt:notice] [pid 5892:tid 264] AH00418: Parent: Created child process 536
+[Fri Dec 13 14:39:09.585822 2013] [ssl:warn] [pid 536:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Fri Dec 13 14:39:10.050849 2013] [ssl:warn] [pid 536:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Fri Dec 13 14:39:10.112852 2013] [mpm_winnt:notice] [pid 536:tid 276] AH00354: Child: Starting 150 worker threads.
+[Sat Dec 14 21:53:03.338991 2013] [ssl:warn] [pid 4532:tid 260] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Dec 14 21:53:03.637008 2013] [core:warn] [pid 4532:tid 260] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 14 21:53:04.095034 2013] [ssl:warn] [pid 4532:tid 260] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Dec 14 21:53:04.184039 2013] [mpm_winnt:notice] [pid 4532:tid 260] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Sat Dec 14 21:53:04.184039 2013] [mpm_winnt:notice] [pid 4532:tid 260] AH00456: Server built: Feb 23 2013 13:07:34
+[Sat Dec 14 21:53:04.184039 2013] [core:notice] [pid 4532:tid 260] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Dec 14 21:53:04.185039 2013] [mpm_winnt:notice] [pid 4532:tid 260] AH00418: Parent: Created child process 7928
+[Sat Dec 14 21:53:05.154095 2013] [ssl:warn] [pid 7928:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Dec 14 21:53:05.858135 2013] [ssl:warn] [pid 7928:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Dec 14 21:53:05.912138 2013] [mpm_winnt:notice] [pid 7928:tid 276] AH00354: Child: Starting 150 worker threads.
+[Mon Dec 16 10:45:27.956222 2013] [ssl:warn] [pid 2560:tid 264] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Dec 16 10:45:28.057228 2013] [core:warn] [pid 2560:tid 264] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 16 10:45:28.529255 2013] [ssl:warn] [pid 2560:tid 264] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Dec 16 10:45:28.613259 2013] [mpm_winnt:notice] [pid 2560:tid 264] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Mon Dec 16 10:45:28.614259 2013] [mpm_winnt:notice] [pid 2560:tid 264] AH00456: Server built: Feb 23 2013 13:07:34
+[Mon Dec 16 10:45:28.614259 2013] [core:notice] [pid 2560:tid 264] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Dec 16 10:45:28.615259 2013] [mpm_winnt:notice] [pid 2560:tid 264] AH00418: Parent: Created child process 6964
+[Mon Dec 16 10:45:29.424306 2013] [ssl:warn] [pid 6964:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Dec 16 10:45:30.034341 2013] [ssl:warn] [pid 6964:tid 276] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Dec 16 10:45:30.085344 2013] [mpm_winnt:notice] [pid 6964:tid 276] AH00354: Child: Starting 150 worker threads.
+[Wed Dec 18 11:36:15.886263 2013] [:error] [pid 6964:tid 1720] [client 127.0.0.1:63859] script 'C:/xampp/htdocs/anderson/index.php' not found or unable to stat
+[Wed Dec 18 16:40:37.004629 2013] [ssl:warn] [pid 3076:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Wed Dec 18 16:40:37.301029 2013] [core:warn] [pid 3076:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 18 16:40:37.722230 2013] [ssl:warn] [pid 3076:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Wed Dec 18 16:40:37.800230 2013] [mpm_winnt:notice] [pid 3076:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Wed Dec 18 16:40:37.800230 2013] [mpm_winnt:notice] [pid 3076:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Wed Dec 18 16:40:37.800230 2013] [core:notice] [pid 3076:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Dec 18 16:40:37.831430 2013] [mpm_winnt:notice] [pid 3076:tid 256] AH00418: Parent: Created child process 3544
+[Wed Dec 18 16:40:38.689431 2013] [ssl:warn] [pid 3544:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Wed Dec 18 16:40:39.235432 2013] [ssl:warn] [pid 3544:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Wed Dec 18 16:40:39.297833 2013] [mpm_winnt:notice] [pid 3544:tid 268] AH00354: Child: Starting 150 worker threads.
+[Sun Dec 29 15:08:21.018735 2013] [ssl:warn] [pid 4944:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:08:21.139742 2013] [core:warn] [pid 4944:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 29 15:08:21.685773 2013] [ssl:warn] [pid 4944:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:08:21.802780 2013] [mpm_winnt:notice] [pid 4944:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Sun Dec 29 15:08:21.802780 2013] [mpm_winnt:notice] [pid 4944:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Sun Dec 29 15:08:21.802780 2013] [core:notice] [pid 4944:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Dec 29 15:08:21.804780 2013] [mpm_winnt:notice] [pid 4944:tid 256] AH00418: Parent: Created child process 5084
+[Sun Dec 29 15:08:23.032850 2013] [ssl:warn] [pid 5084:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:08:23.695888 2013] [ssl:warn] [pid 5084:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:08:23.796894 2013] [mpm_winnt:notice] [pid 5084:tid 268] AH00354: Child: Starting 150 worker threads.
+[Sun Dec 29 15:37:48.696840 2013] [ssl:warn] [pid 2520:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:37:48.810847 2013] [core:warn] [pid 2520:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 29 15:37:49.259873 2013] [ssl:warn] [pid 2520:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:37:49.327877 2013] [mpm_winnt:notice] [pid 2520:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Sun Dec 29 15:37:49.327877 2013] [mpm_winnt:notice] [pid 2520:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Sun Dec 29 15:37:49.327877 2013] [core:notice] [pid 2520:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Dec 29 15:37:49.328877 2013] [mpm_winnt:notice] [pid 2520:tid 256] AH00418: Parent: Created child process 2744
+[Sun Dec 29 15:37:50.309933 2013] [ssl:warn] [pid 2744:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:37:50.887966 2013] [ssl:warn] [pid 2744:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:37:50.954970 2013] [mpm_winnt:notice] [pid 2744:tid 268] AH00354: Child: Starting 150 worker threads.
+[Sun Dec 29 15:40:52.145333 2013] [mpm_winnt:notice] [pid 2520:tid 256] AH00428: Parent: child process 2744 exited with status 1073807364 -- Restarting.
+[Sun Dec 29 15:43:57.669243 2013] [ssl:warn] [pid 2380:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:43:58.074844 2013] [core:warn] [pid 2380:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 29 15:43:58.542845 2013] [ssl:warn] [pid 2380:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:43:58.620845 2013] [mpm_winnt:notice] [pid 2380:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Sun Dec 29 15:43:58.620845 2013] [mpm_winnt:notice] [pid 2380:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Sun Dec 29 15:43:58.620845 2013] [core:notice] [pid 2380:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Dec 29 15:43:58.683245 2013] [mpm_winnt:notice] [pid 2380:tid 256] AH00418: Parent: Created child process 1636
+[Sun Dec 29 15:43:59.478846 2013] [ssl:warn] [pid 1636:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:44:00.009247 2013] [ssl:warn] [pid 1636:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sun Dec 29 15:44:00.056047 2013] [mpm_winnt:notice] [pid 1636:tid 268] AH00354: Child: Starting 150 worker threads.
+[Fri Jan 03 10:13:36.246386 2014] [ssl:warn] [pid 8752:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Fri Jan 03 10:13:36.360393 2014] [core:warn] [pid 8752:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jan 03 10:13:36.880422 2014] [ssl:warn] [pid 8752:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Fri Jan 03 10:13:37.091434 2014] [mpm_winnt:notice] [pid 8752:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Fri Jan 03 10:13:37.091434 2014] [mpm_winnt:notice] [pid 8752:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Fri Jan 03 10:13:37.091434 2014] [core:notice] [pid 8752:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Jan 03 10:13:37.093435 2014] [mpm_winnt:notice] [pid 8752:tid 256] AH00418: Parent: Created child process 8348
+[Fri Jan 03 10:13:37.925482 2014] [ssl:warn] [pid 8348:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Fri Jan 03 10:13:38.523516 2014] [ssl:warn] [pid 8348:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Fri Jan 03 10:13:38.574519 2014] [mpm_winnt:notice] [pid 8348:tid 268] AH00354: Child: Starting 150 worker threads.
+[Mon Jan 06 09:46:07.996426 2014] [ssl:warn] [pid 5704:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Jan 06 09:46:08.074430 2014] [core:warn] [pid 5704:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 06 09:46:08.496454 2014] [ssl:warn] [pid 5704:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Jan 06 09:46:08.574459 2014] [mpm_winnt:notice] [pid 5704:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Mon Jan 06 09:46:08.574459 2014] [mpm_winnt:notice] [pid 5704:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Mon Jan 06 09:46:08.574459 2014] [core:notice] [pid 5704:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Jan 06 09:46:08.575459 2014] [mpm_winnt:notice] [pid 5704:tid 256] AH00418: Parent: Created child process 4268
+[Mon Jan 06 09:46:09.398506 2014] [ssl:warn] [pid 4268:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Jan 06 09:46:09.903535 2014] [ssl:warn] [pid 4268:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Jan 06 09:46:09.990540 2014] [mpm_winnt:notice] [pid 4268:tid 268] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 01 12:42:49.959183 2014] [ssl:warn] [pid 2216:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Mar 01 12:42:50.088190 2014] [core:warn] [pid 2216:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 01 12:42:50.644222 2014] [ssl:warn] [pid 2216:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Mar 01 12:42:50.758229 2014] [mpm_winnt:notice] [pid 2216:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Sat Mar 01 12:42:50.758229 2014] [mpm_winnt:notice] [pid 2216:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Sat Mar 01 12:42:50.758229 2014] [core:notice] [pid 2216:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 01 12:42:50.759229 2014] [mpm_winnt:notice] [pid 2216:tid 256] AH00418: Parent: Created child process 6100
+[Sat Mar 01 12:42:51.710283 2014] [ssl:warn] [pid 6100:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Mar 01 12:42:52.416323 2014] [ssl:warn] [pid 6100:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Mar 01 12:42:52.613335 2014] [mpm_winnt:notice] [pid 6100:tid 268] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 01 15:33:41.189878 2014] [ssl:warn] [pid 5768:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Mar 01 15:33:41.314678 2014] [core:warn] [pid 5768:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 01 15:33:41.860679 2014] [ssl:warn] [pid 5768:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Mar 01 15:33:41.938679 2014] [mpm_winnt:notice] [pid 5768:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Sat Mar 01 15:33:41.938679 2014] [mpm_winnt:notice] [pid 5768:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Sat Mar 01 15:33:41.938679 2014] [core:notice] [pid 5768:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 01 15:33:41.938679 2014] [mpm_winnt:notice] [pid 5768:tid 256] AH00418: Parent: Created child process 2280
+[Sat Mar 01 15:33:42.781080 2014] [ssl:warn] [pid 2280:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Mar 01 15:33:43.436282 2014] [ssl:warn] [pid 2280:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Sat Mar 01 15:33:43.498682 2014] [mpm_winnt:notice] [pid 2280:tid 268] AH00354: Child: Starting 150 worker threads.
+[Mon Sep 29 10:09:00.798012 2014] [ssl:warn] [pid 7448:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Sep 29 10:09:01.068028 2014] [core:warn] [pid 7448:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Sep 29 10:09:01.548055 2014] [ssl:warn] [pid 7448:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Sep 29 10:09:04.381217 2014] [mpm_winnt:notice] [pid 7448:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Mon Sep 29 10:09:04.391218 2014] [mpm_winnt:notice] [pid 7448:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Mon Sep 29 10:09:04.391218 2014] [core:notice] [pid 7448:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Sep 29 10:09:04.417219 2014] [mpm_winnt:notice] [pid 7448:tid 256] AH00418: Parent: Created child process 6544
+[Mon Sep 29 10:09:05.426277 2014] [ssl:warn] [pid 6544:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Sep 29 10:09:06.068314 2014] [ssl:warn] [pid 6544:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Mon Sep 29 10:09:06.186320 2014] [mpm_winnt:notice] [pid 6544:tid 268] AH00354: Child: Starting 150 worker threads.
+[Wed Oct 01 14:12:41.090780 2014] [ssl:warn] [pid 2288:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Wed Oct 01 14:12:41.259801 2014] [core:warn] [pid 2288:tid 256] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 01 14:12:41.717859 2014] [ssl:warn] [pid 2288:tid 256] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Wed Oct 01 14:12:43.055529 2014] [mpm_winnt:notice] [pid 2288:tid 256] AH00455: Apache/2.4.4 (Win32) OpenSSL/0.9.8y PHP/5.4.19 configured -- resuming normal operations
+[Wed Oct 01 14:12:43.075032 2014] [mpm_winnt:notice] [pid 2288:tid 256] AH00456: Server built: Feb 23 2013 13:07:34
+[Wed Oct 01 14:12:43.075032 2014] [core:notice] [pid 2288:tid 256] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Oct 01 14:12:43.104035 2014] [mpm_winnt:notice] [pid 2288:tid 256] AH00418: Parent: Created child process 6660
+[Wed Oct 01 14:12:44.300687 2014] [ssl:warn] [pid 6660:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Wed Oct 01 14:12:44.903764 2014] [ssl:warn] [pid 6660:tid 268] AH01909: RSA certificate configured for www.example.com:443 does NOT include an ID which matches the server name
+[Wed Oct 01 14:12:45.023779 2014] [mpm_winnt:notice] [pid 6660:tid 268] AH00354: Child: Starting 150 worker threads.
